@@ -8,6 +8,7 @@ Check the [Release page](https://github.com/AngeloFaella/crypto_app_electron/rel
 ## Features
 * BTC - EUR exchange
 * ETH - EUR exchange
+* "Notify me when..." send a notification when the selected currency reach the target
 
 ## Authors
 * **Angelo Faella** - [AngeloFaella](https://github.com/AngeloFaella)
